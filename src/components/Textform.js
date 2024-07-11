@@ -65,7 +65,8 @@ export default function Textform(props) {
           {text.split(" ").filter(Boolean).length} words and {text.length} characters
         </p>
         <p>
-          {/* hello world */}
+          {/* hello world  yes*/}
+          
           {0.08 * text.split(" ").filter(Boolean).length} minutes you will take to read this
         </p>
         <h1>Preview</h1>
